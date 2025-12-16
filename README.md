@@ -170,6 +170,10 @@ The report includes a dedicated KPI dataset (example: `v_mspb_kpis`) to ensure:
 ---
 
 ## Dashboard Pages (What’s Included)
+<img width="1296" height="732" alt="image" src="https://github.com/user-attachments/assets/8de62831-c934-4ca6-82fb-7c132afb756a" />
+<img width="1296" height="724" alt="image" src="https://github.com/user-attachments/assets/396ea5f8-8d24-43cf-847b-56febea054aa" />
+
+
 
 ### Executive Overview
 
