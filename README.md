@@ -245,6 +245,10 @@ A dedicated KPI view ensures:
 
 ---
 
+## 📈 Link Of Dashboard
+
+https://app.powerbi.com/view?r=eyJrIjoiNTAyNmNiOTYtYjY1NC00NTI2LTgwNGItMDA0YmZkOGY4YzYxIiwidCI6IjcwZGUxOTkyLTA3YzYtNDgwZi1hMzE4LWExYWZjYmEwMzk4MyIsImMiOjN9
+
 ## 👤 Author
 
 **Kishor Khatiwada**  
